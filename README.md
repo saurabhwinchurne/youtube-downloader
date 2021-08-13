@@ -36,4 +36,4 @@ Start the app
 
 ## Screenshots
 
-![App Screenshot](./Package/Capture.png)
+![App Screenshot](/Package/Capture.png)
